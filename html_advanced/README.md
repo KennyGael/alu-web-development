@@ -76,7 +76,7 @@ By the end of this project, I will be able to:
 
 ### End Goal
 
-![alt text](<fig file.jpg>)
+![Figma Image](<fig file.jpg>)
 
 ---
 
