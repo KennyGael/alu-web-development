@@ -74,8 +74,30 @@ By the end of this project, I will be able to:
 
 ---
 
+### End Goal
+
+![alt text](<fig file.jpg>)
+
+---
+
+## Files in This Directory
+
+| File            | Description                                      |
+|-----------------|--------------------------------------------------|
+| `index.html`    | Main HTML page containing the full structure     |
+| `README.md`     | This file, explaining the project setup and tasks |
+| `styles.css`    | Placeholder for custom styles (to be added later) |
+
+---
+
 ## Technologies Used
 
 - **HTML5** – for structuring the webpage content
 - **CSS3** – (future task: styling)
 - **W3C Validator** – to ensure HTML compliance
+
+---
+
+## Next Steps
+
+- After completing the HTML structure, the next step will be styling this structure using **CSS** to create a responsive and visually appealing layout.
